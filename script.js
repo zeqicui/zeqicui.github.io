@@ -6,7 +6,7 @@ const gradientAPI = 'https://gist.githubusercontent.com/wking-io/3e116c0e5675c8b
 // HELPER FUNCTIONS
 
 // 1. Get random number in range. Used to get random index from array.
-const randNumInRange = max => Math.floor(Math.random() * (max - 1));
+const randNumInRange = max => Math.floor(0.55 * (max - 1));
 
 // 2. Merge two separate array values at the same index to 
 // be the same value in new array.
