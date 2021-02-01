@@ -1,30 +1,6 @@
-
-.background__wrapper {
-    overflow: hidden;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100vw;
-    height: 100vh;
-    z-index:-1;
-    filter: grayscale(100%);
-}
-.background {
-    position: absolute;
-    top: -20vh;
-    left: -20vw;
-    width: 140vw;
-    height: 140vh;
-    background-image: url("https://i.imgur.com/KeTQDre.png");
-    background-size: cover;
-    background-position: center;
-    filter: url("#turbulence");
-}
-
 body {
   width: 80%;
   margin: 10vw auto;
-  color: #000;
 }
 
 a {
