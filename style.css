@@ -12,6 +12,7 @@ a {
 .heading {
   font-family: "Playfair Display", serif;
   font-size: 10vw;
+  opacity: 40%;
 }
 
 .subheading {
