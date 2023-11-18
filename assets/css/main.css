@@ -435,6 +435,16 @@ a:hover
     background: #ADD8E6;
 }
 
+.hero .front-content p
+{
+    line-height: 1.4em;
+
+    display: inline-block;
+
+    padding: 0 4rem;
+    width: 40%;
+}
+
 
 
 /** 5. Portfolio
