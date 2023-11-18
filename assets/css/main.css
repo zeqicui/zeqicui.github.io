@@ -435,7 +435,7 @@ a:hover
     background: #ADD8E6;
 }
 
-.hero .front-content p
+.hero .front-content para
 {
     line-height: 1.4em;
 
@@ -443,6 +443,7 @@ a:hover
 
     padding: 0 4rem;
     width: 40%;
+    font-size: 16px;
 }
 
 
